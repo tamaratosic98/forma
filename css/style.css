@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(114, 114, 114, 0.699);
+}
+.msg{
+    color:red;
+}
+.msgPol{
+    color:red;
+}
+#dugme{
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+.msgSubmit{
+    color: black;
+    background-color: rgb(114, 114, 114);
+    margin: auto;
+    display: flex;
+}
